@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SalmanFarcyKA
-- 👀 I’m interested in ...Cyber Security
+- 👀 I’m interested in ...Machine Learning 
 - 📫 How to reach me ...farcy899@gmail.com
 
